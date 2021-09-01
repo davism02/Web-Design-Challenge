@@ -1,5 +1,5 @@
 body {
-    background: #cbf1f5;
+    background: #3495eb;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -37,7 +37,7 @@ h2 {
 }
 
 .content {
-  background:#e3fdfd;
+  background:#3495eb;
   padding: 10px 30px;
   margin-left: auto;
   margin-right: auto;
@@ -49,7 +49,7 @@ h2 {
 }
 
 .table_content {
-  background:#e3fdfd;
+  background:#3495eb;
   margin: 60px 10px 60px 10px;
   border: 3px;
   border-style: solid;
@@ -96,7 +96,7 @@ h2 {
   }
 
   .content {
-    background: #e3fdfd;
+    background: #3495eb;
     margin: 0px 30px 0px 30px;
     border: 0px;
   }
